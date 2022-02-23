@@ -1,14 +1,14 @@
 {
     "name": "RaiChu Music Bot",
     "description": "Telegram bot for Streaming  Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
-    "logo": "https://telegra.ph/file/1c41ded2dd871eb36bd7e.png",
+    "logo": "https://telegra.ph/file/2a27cb8666827154b2c12.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
         "pyrogram"
     ],
     "website": "https://t.me/RaiChuUpdate",
-    "repository": "https://github.com/RaiChuXD/RaiChuMusic",
+    "repository": "https://github.com/drlucifer2003/smsmmysiclikker",
     "success_url": "https://t.me/RaiChuXD",
     "env": {
         "API_ID": {
